@@ -1,7 +1,7 @@
 Set objScriptShell = CreateObject("Wscript.Shell")
-kill "TeacherMan"
-kill ""
-kill ""
+    kill "TeacherMan"
+    kill ""
+    kill ""
 
 
 Sub kill(value1)
